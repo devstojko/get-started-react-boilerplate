@@ -1,9 +1,9 @@
 {
-  "description": "React boilerplate for starting apps",
+  "description": "React boilerplate code for creating apps.",
   "main": "index.js",
   "author": "Nemanja Stojkovic",
   "license": "MIT",
-  "name": "my-react-workflow",
+  "name": "get-started-react-boilerplate",
   "version": "0.1.0",
   "private": true,
   "scripts": {
